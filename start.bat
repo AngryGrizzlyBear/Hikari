@@ -1,0 +1,2 @@
+node Hikaribot.js
+pause 
